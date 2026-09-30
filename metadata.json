@@ -1,0 +1,6 @@
+{
+  "name": "Iraaya",
+  "description": "Iraaya (Wazir & Co) - Pure Banarasi Silk Sarees & Fine Handloom Heritage from Banaras Since 1995.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
